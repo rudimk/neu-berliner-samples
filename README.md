@@ -1,2 +1,3 @@
 # neu-berliner-samples
-Samples for neu-berliner
+
+Samples for the [neu-berliner](https://github.com/rudimk/neu-berliner) microframework.
